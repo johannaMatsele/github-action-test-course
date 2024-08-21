@@ -1,0 +1,5 @@
+20-building todo app with mutation and queries 10:48:53
+
+10:56:47 node server.js file 
+11:06:38 git how to o
+install git
